@@ -12,17 +12,20 @@ Draft launch price: $49.
 
 ## Status
 
-Local only. Not published. Lemon Squeezy checkout connected.
+Published with Lemon Squeezy checkout connected.
+
+Live URL:
+
+https://levib-200.github.io/blue-tier-ai-ops-kit-site/
 
 ## Assets
 
 - `assets/ai-ops-kit-cover.png`
 
-## Approval Needed Before Launch
+## Launch Notes
 
-- Approve publishing location.
-- Approve public copy and disclaimer.
-- Publish to a static host or page builder.
+- Hosted on GitHub Pages from the public repo `leviB-200/blue-tier-ai-ops-kit-site`.
+- Use this URL as the current business/product website until a Blue Tier domain is connected.
 
 ## Checkout
 
@@ -30,9 +33,8 @@ Connected to Lemon Squeezy checkout for product `1002286`, variant `1572826`.
 
 ## Deployment Options
 
-- Manual upload to a static host.
-- GitHub Pages after GitHub CLI is re-authenticated.
-- Netlify/Vercel after account login or CLI setup.
+- Current: GitHub Pages.
+- Future: custom domain or Blue Tier GitHub organization.
 
 ## Recommended First Path
 

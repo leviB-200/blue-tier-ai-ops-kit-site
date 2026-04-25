@@ -16,7 +16,7 @@ Published with Lemon Squeezy checkout connected.
 
 Live URL:
 
-https://levib-200.github.io/blue-tier-ai-ops-kit-site/
+https://bluetierlabs.github.io/blue-tier-ai-ops-kit-site/
 
 ## Assets
 
@@ -24,7 +24,7 @@ https://levib-200.github.io/blue-tier-ai-ops-kit-site/
 
 ## Launch Notes
 
-- Hosted on GitHub Pages from the public repo `leviB-200/blue-tier-ai-ops-kit-site`.
+- Hosted on GitHub Pages from the public repo `bluetierlabs/blue-tier-ai-ops-kit-site`.
 - Use this URL as the current business/product website until a Blue Tier domain is connected.
 
 ## Checkout
